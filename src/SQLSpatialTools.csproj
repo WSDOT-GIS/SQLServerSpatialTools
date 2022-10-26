@@ -164,7 +164,6 @@
     <Compile Include="Types\Vector3.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
     <None Include="SQL Scripts\aggregate_example.sql">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
