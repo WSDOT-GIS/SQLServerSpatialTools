@@ -10,7 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{FDEEA275-E34A-465E-836C-F297B4FECDB9}"
 	ProjectSection(SolutionItems) = preProject
 		License.txt = License.txt
-		Readme.txt = Readme.txt
+		README.md = README.md
 		SpatialTools.pfx = SpatialTools.pfx
 		SQLSpatialTools.sln.DotSettings = SQLSpatialTools.sln.DotSettings
 	EndProjectSection
