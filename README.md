@@ -47,9 +47,9 @@ Detailed Steps:
 
 1) Note the path to the SQLSpatialTools.dll file.
 2) Edit the Register.sql file in the SQL Scripts directory:
-      a) Insert the name of the database you are registering the
+      1) Insert the name of the database you are registering the
          functionality to where indicated at the beginning of the script.
-      b) Insert the path to the SQLSpatialTools.dll file where indicated
+      2) Insert the path to the SQLSpatialTools.dll file where indicated
          at the beginning of the script.
 3) Execute the script on your SQL Server instance.
 
